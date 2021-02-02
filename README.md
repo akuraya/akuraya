@@ -1,4 +1,6 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akuraya)](https://github.com/akuraya/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akuraya&count_private=true&thema=tokyonight)](https://github.com/akuraya/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akuraya&layout=compact)](https://github.com/akuraya/github-readme-stats)
 
 ### Hi there 👋
 
