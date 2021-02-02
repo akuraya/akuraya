@@ -1,9 +1,8 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akuraya&count_private=true&thema=tokyonight)](https://github.com/akuraya/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akuraya&count_private=true)](https://github.com/akuraya/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akuraya&layout=compact)](https://github.com/akuraya/github-readme-stats)
 
-### Hi there 👋
-
+### 👋
 
 <!--
 **akuraya/akuraya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
